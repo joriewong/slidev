@@ -1,5 +1,5 @@
 ---
-theme: seriph
+theme: penguin
 background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shiki
@@ -14,6 +14,7 @@ drawings:
 transition: slide-left
 title: Welcome to Slidev
 mdc: true
+layout: intro
 ---
 
 # Welcome to Slidev
